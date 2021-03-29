@@ -1,5 +1,5 @@
 # treport-product
- Relatorio de Produto.
+ Relatório de Produto.
  
   Este programa é dedicados aos programadores ADVPL.
 =======
